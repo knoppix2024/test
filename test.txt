@@ -1,1 +1,2 @@
 This is just a text to verify jenkins pipeline
+Adding new info
